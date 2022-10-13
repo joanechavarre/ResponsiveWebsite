@@ -1,0 +1,223 @@
+<style>
+
+
+{
+    
+}
+.container{
+    padding: 40px;
+    border-radius: 25px;
+    background-color: #FFC3C3;
+    margin-top: 20px;
+    float: left;
+}
+
+.self{
+    padding: 40px;
+    border-radius: 25px;
+    background-color: #F10086;
+    color: white;
+    margin-top: 20px;
+    font-family: "Roboto", sans-serif; 
+}
+
+.text{
+    padding: 40px;
+    border-radius: 25px;
+    margin-left: 38%;
+    float: right;
+}
+.show{
+    padding: 40px;
+    border-radius: 25px;
+    background-color: lightseagreen;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 70px;
+    display: flex;
+}
+
+.mySlides{
+    margin-right: 17px;
+}
+
+.img {
+  vertical-align: middle;
+  display: table-cell;
+  margin-left: 62%;
+  width: auto;
+    
+}
+
+body, html {
+  height: auto;
+  width: auto;
+  background-color: #FFE6F7;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+span {
+  vertical-align: middle;
+  display: table-cell;
+  text-align: center;
+  border: 10px;
+  margin-left: 30px;
+}
+.tab, h1{
+  border: 10px 50px;    
+  border-radius: 15px;
+  margin-top: px;
+  margin-right: 17px;
+  padding: 27px;
+  font-family: "Roboto", sans-serif;  
+        } 
+
+.logo{
+  border: 10px 50px;    
+  border-radius: 15px;
+  background-color: black;
+}
+
+.survey {
+  border: 10px 50px;    
+  border-radius: 25px;
+  background-color: #8E05C2;
+  color: white;
+  padding: 20px;
+  margin-top: 24px;
+  font-family: "Roboto", sans-serif;    
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button {
+  appearance: none;
+  background-color: #FF74B1;
+  border: 2px solid #1A1A1A;
+  border-radius: 15px;
+  box-sizing: border-box;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Roobert,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  margin: px;
+  min-height: 60px;
+  min-width: 0;
+  outline: none;
+  padding: 16px 24px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 23%;
+  margin-left: 3px;
+  will-change: transform;
+  
+}
+
+.button:disabled {
+  pointer-events: none;
+}
+
+.button:hover {
+  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+  transform: translateY(-2px);
+}
+
+.button:active {
+  box-shadow: none;
+  transform: translateY(0);
+}
+
+.footer-basic {
+  padding:40px 0;
+  background-color:#FFC3C3;
+  color:#4b4c4d;
+  font-family: "Roboto", sans-serif;   
+}
+
+.footer-basic ul {
+  padding:0;
+  list-style:none;
+  text-align:center;
+  font-size:18px;
+  line-height:1.6;
+  margin-bottom:0;
+}
+
+.footer-basic li {
+  padding:0 10px;
+}
+
+.footer-basic ul a {
+  color:inherit;
+  text-decoration:none;
+  opacity:0.8;
+}
+
+.footer-basic ul a:hover {
+  opacity:1;
+}
+
+.footer-basic .social {
+  text-align:center;
+  padding-bottom:25px;
+}
+
+.footer-basic .social > a {
+  font-size:24px;
+  width:40px;
+  height:40px;
+  line-height:40px;
+  display:inline-block;
+  text-align:center;
+  border-radius:50%;
+  border:1px solid #ccc;
+  margin:0 8px;
+  color:inherit;
+  opacity:0.75;
+}
+
+.footer-basic .social > a:hover {
+  opacity:0.9;
+}
+
+.footer-basic .pangalan {
+  margin-top:15px;
+  text-align:center;
+  font-size:13px;
+  color:#aaa;
+  margin-bottom:0;
+}
+
+
+
+</style>
